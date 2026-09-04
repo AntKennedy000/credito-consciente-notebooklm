@@ -212,6 +212,47 @@ As exportações continham referências numéricas que não funcionavam como lin
 
 O principal aprendizado foi combinar **curadoria, formulação de perguntas, leitura das evidências e revisão editorial**. Refinar um prompt melhora o processo, mas não elimina a necessidade de checar o resultado.
 
+## 10. Evidências do projeto
+
+Os registros abaixo documentam a configuração do notebook, os testes de prompts e a revisão das respostas.
+
+### Fontes importadas
+
+As três fontes selecionadas no NotebookLM.
+
+![Três fontes importadas](evidencias/03-tres-fontes-importadas.png)
+
+### Auditoria de uma resposta
+
+Conferência da citação referente à simulação numérica que a IA havia afirmado não existir.
+
+![Auditoria da simulação](evidencias/06-auditoria-citacao-simulacao.png)
+
+### Verificação da explicação sobre CET
+
+Abertura do trecho utilizado para fundamentar a resposta sobre o Custo Efetivo Total.
+
+![Conferência da citação sobre CET](evidencias/07-auditoria-citacao-cet.png)
+
+### Primeira versão do miniguia
+
+Registro da geração inicial, antes dos ajustes identificados na revisão.
+
+![Primeira versão do miniguia](evidencias/08-miniguia-gerado.png)
+
+### Segunda versão do miniguia
+
+Registro da V2, que também passou por conferência antes da consolidação editorial neste README.
+
+![Segunda versão do miniguia](evidencias/09-miniguia-revisado.png)
+
+### Registros complementares
+
+- [Criação do caderno temático](evidencias/01-caderno-tematico-criado.png)
+- [Importação da primeira fonte](evidencias/02-primeira-fonte-importada.png)
+- [Resposta ao primeiro prompt](evidencias/04-primeiro-prompt-resposta.png)
+- [Resposta ao prompt refinado](evidencias/05-prompt-refinado-resposta.png)
+
 ## Autor
 
 **Antony Kennedy Ribeiro de Araújo**
